@@ -1,0 +1,16 @@
+[project]
+name = "mcp-server"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "bpy>=4.4.0",
+    "langchain>=0.3.25",
+    "langchain-community>=0.3.23",
+    "langchain-openai>=0.3.16",
+    "mathutils>=3.3.0",
+    "mcp-use>=1.2.8",
+    "mcp[cli]>=1.7.1",
+    "supabase>=2.15.1",
+]

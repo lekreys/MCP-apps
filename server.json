@@ -1,0 +1,10 @@
+{
+        
+    "mcpServers": {
+        "http": {
+
+            "url": "http://localhost:8086/sse"
+        }
+    }
+    
+  }
